@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there
 
 <!--
 **TheArchons/TheArchons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Currently working on: \
+-ISO8601ifiyer \
+-Leetcode \
+-Waterloo-CCC \
+\
+I want to work on: \
+-Multiplayer chess in the command line \
+-Fastest route calculator with google maps \
+-Personal website \
+-Word descrambler \
+-Camscanner but it's foss\
+\
+How to reach me: \
+-Discord Joseph Smith#0557\
+-Reddit u/TheArchonStrikes \
+-Email alexli9138@gmail.com
