@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Languages: \
+-Python \
+-C++\
+-Rust (kinda) \
+\
 Currently working on: \
 -ISO8601ifiyer \
 -Leetcode \
