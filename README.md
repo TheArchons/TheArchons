@@ -31,6 +31,7 @@ I want to work on: \
 -Personal website \
 -Word descrambler \
 -Camscanner but it's foss\
+-Deacronymer\
 \
 How to reach me: \
 -Discord Joseph Smith#0557\
