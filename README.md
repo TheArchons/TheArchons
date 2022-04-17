@@ -20,10 +20,14 @@ Languages: \
 -C++\
 -Rust (kinda) \
 \
-Currently working on: \
+Past projects: \
+-CrinList \
 -ISO8601ifiyer \
+\
+Currently working on: \
 -Leetcode \
 -Waterloo-CCC \
+-Yato \
 \
 I want to work on: \
 -Multiplayer chess in the command line \
