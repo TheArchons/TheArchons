@@ -37,6 +37,7 @@ I want to work on: \
 -Camscanner but it's foss\
 -Deacronymer\
 -Typing test (similar to Monkeytype) for Android/IOS\
+-My own QOI implementation\
 \
 How to reach me: \
 -Discord Joseph Smith#0557\
