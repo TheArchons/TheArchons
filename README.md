@@ -36,6 +36,7 @@ I want to work on: \
 -Word descrambler \
 -Camscanner but it's foss\
 -Deacronymer\
+-Typing test (similar to Monkeytype) for Android/IOS\
 \
 How to reach me: \
 -Discord Joseph Smith#0557\
