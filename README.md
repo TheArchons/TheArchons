@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Languages: \
--Python \
--C++\
--Rust (kinda) \
+<img src="https://skillicons.dev/icons?i=cpp,py,rust,git,github,vscode,bash,powershell" />\
 \
 Past projects: \
 -CrinList \
