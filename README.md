@@ -35,6 +35,7 @@ I want to work on: \
 -Deacronymer\
 -Typing test (similar to Monkeytype) for Android/IOS\
 -My own QOI implementation\
+-General file conversion tool (using extensions)\
 \
 How to reach me: \
 -Discord Joseph Smith#0557\
