@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 \
 Past projects: \
 -CrinList \
--ISO8601ifiyer \
+-ISO8601ifier \
 -FileTransfer \
 \
 Currently working on: \
