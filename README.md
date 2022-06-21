@@ -41,4 +41,6 @@ I want to work on: \
 How to reach me: \
 -Discord Joseph Smith#0557\
 -Reddit u/TheArchonStrikes \
--Email alexli9138@gmail.com
+-Email alexli9138@gmail.com \
+\
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H0DC8X3)
