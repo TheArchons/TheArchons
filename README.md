@@ -21,11 +21,12 @@ Past projects: \
 -CrinList \
 -ISO8601ifier \
 -FileTransfer \
+-Yato \
 \
 Currently working on: \
 -Leetcode \
 -Waterloo-CCC \
--Yato \
+-cs11FinalProject \
 \
 I want to work on: \
 -Multiplayer chess in the command line \
