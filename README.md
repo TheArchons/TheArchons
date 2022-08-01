@@ -22,11 +22,11 @@ Past projects: \
 -ISO8601ifier \
 -FileTransfer \
 -Yato \
+-cs11FinalProject \
 \
 Currently working on: \
 -Leetcode \
 -Waterloo-CCC \
--cs11FinalProject \
 \
 I want to work on: \
 -Multiplayer chess in the command line \
