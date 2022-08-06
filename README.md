@@ -27,11 +27,11 @@ Past projects: \
 Currently working on: \
 -Leetcode \
 -Waterloo-CCC \
+-Personal website \
 \
 I want to work on: \
 -Multiplayer chess in the command line \
 -Fastest route calculator with google maps \
--Personal website \
 -Word descrambler \
 -Camscanner but it's foss\
 -Deacronymer\
