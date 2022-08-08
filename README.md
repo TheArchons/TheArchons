@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 Past projects: \
 -CrinList \
 -ISO8601ifier \
--FileTransfer \
+-FileTransfer (Now merged into the Personal Website) \
 -Yato \
 -cs11FinalProject \
+-Personal website \
 \
 Currently working on: \
 -Leetcode \
 -Waterloo-CCC \
--Personal website \
 \
 I want to work on: \
 -Multiplayer chess in the command line \
