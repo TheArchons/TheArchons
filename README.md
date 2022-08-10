@@ -24,11 +24,11 @@ Past projects: \
 -Yato \
 -cs11FinalProject \
 -Personal website \
+-WinLauncher \
 \
 Currently working on: \
 -Leetcode \
 -Waterloo-CCC \
--Game launcher for Windows (Like GOG Galaxy, Geforce Experience, etc)\
 \
 I want to work on: \
 -Multiplayer chess in the command line \
