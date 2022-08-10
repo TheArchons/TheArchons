@@ -28,6 +28,7 @@ Past projects: \
 Currently working on: \
 -Leetcode \
 -Waterloo-CCC \
+-Game launcher for Windows (Like GOG Galaxy, Geforce Experience, etc)\
 \
 I want to work on: \
 -Multiplayer chess in the command line \
@@ -38,7 +39,6 @@ I want to work on: \
 -Typing test (similar to Monkeytype) for Android/IOS\
 -My own QOI implementation\
 -General file conversion tool (using extensions)\
--Game launcher for Windows (Like GOG Galaxy, Geforce Experience, etc)\
 \
 How to reach me: \
 -Discord Joseph Smith#0557\
