@@ -37,6 +37,7 @@ I want to work on: \
 -Typing test (similar to Monkeytype) for Android/IOS\
 -My own QOI implementation\
 -General file conversion tool (using extensions)\
+-MAL tools\
 \
 How to reach me: \
 -Discord Joseph Smith#0557\
