@@ -26,7 +26,7 @@ Past projects: \
 \
 Currently working on: \
 -Leetcode \
--Waterloo-CCC \
+-Competitive-Programming \
 \
 I want to work on: \
 -Multiplayer chess in the command line \
