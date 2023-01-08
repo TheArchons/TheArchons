@@ -27,6 +27,7 @@ Past projects: \
 Currently working on: \
 -Leetcode \
 -Competitive-Programming \
+-NETSI\
 \
 I want to work on: \
 -Multiplayer chess in the command line \
