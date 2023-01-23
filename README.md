@@ -14,35 +14,38 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://skillicons.dev/icons?i=cpp,py,rust,git,github,vscode,bash,powershell,aws,js,html,css" />\
-\
-Past projects: \
--CrinList \
--ISO8601ifier \
--FileTransfer (Now merged into the Personal Website) \
--Yato \
--cs11FinalProject \
--Personal website \
--WinLauncher \
-\
-Currently working on: \
--Leetcode \
--Competitive-Programming \
--NETSI\
-\
-I want to work on: \
--Multiplayer chess in the command line \
--Fastest route calculator with google maps \
--Word descrambler \
--Camscanner but it's foss\
--Deacronymer\
--Typing test (similar to Monkeytype) for Android/IOS\
--My own QOI implementation\
--General file conversion tool (using extensions)\
--MAL tools\
-\
-How to reach me: \
--Discord Joseph Smith#0557\
--Reddit u/TheArchonStrikes \
--Email archons@thearchons.xyz \
-\
+
+# Projects
+
+## Past projects:
+- CrinList
+- ISO8601ifier
+- FileTransfer (Now merged into the Personal Website)
+- Yato
+- cs11FinalProject
+- Personal website
+- WinLauncher
+
+
+## Currently working on:
+- Leetcode
+- Competitive-Programming
+- NETSI
+
+## I want to work on:
+- Multiplayer chess in the command line
+- Fastest route calculator with google maps
+- Word descrambler
+- Camscanner but it's foss
+- Deacronymer
+- Typing test (similar to Monkeytype) for Android/IOS
+- My own QOI implementation
+- General file conversion tool (using extensions)
+- MAL tools
+
+# Contact
+- Discord Joseph Smith#0557
+- Reddit u/TheArchonStrikes
+- Email archons@thearchons.xyz
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H0DC8X3)
