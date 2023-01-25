@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://skillicons.dev/icons?i=cpp,py,rust,git,github,vscode,bash,powershell,aws,js,html,css" />\
+<img src="https://skillicons.dev/icons?i=cpp,py,rust,git,github,vscode,bash,powershell,aws,js,html,css" />
 
 # Projects
 
