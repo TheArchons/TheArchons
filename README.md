@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 - Leetcode
 - Competitive-Programming
 - NETSI
+- Graphite
 
 ## I want to work on:
 - Multiplayer chess in the command line
