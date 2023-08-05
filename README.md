@@ -45,7 +45,6 @@ Here are some ideas to get you started:
 
 # Contact
 - Discord Joseph Smith#0557
-- Reddit u/TheArchonStrikes
 - Email archons@thearchons.xyz
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H0DC8X3)
