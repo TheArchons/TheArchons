@@ -25,13 +25,12 @@ Here are some ideas to get you started:
 - cs11FinalProject
 - Personal website
 - WinLauncher
-
+- Graphite
+- NETSI
 
 ## Currently working on:
 - Leetcode
 - Competitive-Programming
-- NETSI
-- Graphite
 
 ## I want to work on:
 - Multiplayer chess in the command line
