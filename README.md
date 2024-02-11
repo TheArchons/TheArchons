@@ -13,5 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Contact
-- Discord thearchons
-- Email archons@thearchons.xyz
+```json
+{
+  "discord": "thearchons",
+  "email": "archons@thearchons.xyz",
+  "pgp": "https://keys.openpgp.org/search?q=archons%40thearchons.xyz"
+}
+```
